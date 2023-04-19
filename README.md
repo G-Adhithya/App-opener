@@ -5,6 +5,7 @@ This is an app that opens apps (duh). No need to install extra modules for modif
 ## BUGS:
 
 There are currently no bugs. :)
+Need help in creating a delete function
 
 Download the finished product here: https://www.mediafire.com/file/exdnq1ras5blff0/Installer.exe/file
 (.EXE Format)
